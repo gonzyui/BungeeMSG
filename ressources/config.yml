@@ -1,0 +1,45 @@
+##########################################################################
+#                BungeeMSG by gonzyui - Messages file                    #
+##########################################################################
+
+messages:
+  console:
+    - "&cConsole can't do that!"
+  nopermission:
+    - "&4You don't have permission to do that!"
+  offline:
+    - "&cThat player is offline!"
+  noreplies:
+    - "&cYou have no one to reply to."
+  sentformat:
+    - "&6[&fTO&6] [&f%server%&6] &6[&f%reciever%&6] >> &f%message%"
+  recievedformat:
+    - "&6[&fFROM&6] [&f%server%&6] &6[&f%sender%&6] >> &f%message%"
+  socialspyformat:
+    - "&6[&fFROM&6] [&f%server%&6] [&6&f%sender%&6] [TO] [&f%server%&6] [&f%reciever%&6] &f%message%"
+  messageusage:
+    - "&cUsage: /msg {player} {message}"
+  replyusage:
+    - "&cUsage: /reply {message}"
+  ignoreusage:
+    - "&cUsage: /ignore {player}"
+  enablesocialspy:
+    - "&aYou enabled social spy."
+  disablesocialspy:
+    - "&cYou disabled social spy."
+  enabledonotdisturb:
+    - "&aYou enabled do not disturb."
+  disabledonotdisturb:
+    - "&cYou disabled do not disturb."
+  donotdisturb:
+    - "&cYou can't message that player."
+  ignoreremoved:
+    - "&cYou've removed %player% from your ignored players."
+  ignoreadded:
+    - "&bYou've added %player% to your ignored players."
+
+socialspy: {}
+
+donotdisturb: {}
+
+ignore: {}
