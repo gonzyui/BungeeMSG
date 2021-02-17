@@ -22,7 +22,7 @@ msg.donotdisturb - Access to /donotdisturb.
 msg.ignore - Access to /ignore.
 msg.socialspy - Access to /socialspy.
 
-> Configuration file
+> Config file
 
 <img src="https://cdn.discordapp.com/attachments/806295982228242443/811511612166242334/Capture.PNG">
 
