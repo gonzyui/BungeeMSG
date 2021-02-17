@@ -8,19 +8,19 @@ BungeeMSG is a plugin that allows you to message other players, reply to other p
 4. Restart the proxy.
 
 # > Commands:
-`/message` -  (aliases: msg, pm, m) - Message other players.
-`/reply` - (aliases: r) - Reply to players' "/message"s.
-`/donotdisturb` - (aliases: dnd) - Stop all player's from messaging you.
-`/ignore` - Stop certain players from messaging you.
-`/socialspy` - (aliases: ss) - See players' messages.
+<br>`/message` -  (aliases: msg, pm, m) - Message other players.
+<br>`/reply` - (aliases: r) - Reply to players' "/message"s.
+<br>`/donotdisturb` - (aliases: dnd) - Stop all player's from messaging you.
+<br>`/ignore` - Stop certain players from messaging you.
+<br>`/socialspy` - (aliases: ss) - See players' messages.
 
 
 # > Permissions:
-`msg.message` - Access to /message.
-`msg.reply` - Access to /reply.
-`msg.donotdisturb` - Access to /donotdisturb.
-`msg.ignore` - Access to /ignore.
-`msg.socialspy` - Access to /socialspy.
+<br>`msg.message` - Access to /message.
+<br>`msg.reply` - Access to /reply.
+<br>`msg.donotdisturb` - Access to /donotdisturb.
+<br>`msg.ignore` - Access to /ignore.
+<br>`msg.socialspy` - Access to /socialspy.
 
 # > Config file
 
